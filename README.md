@@ -27,9 +27,7 @@ Tenho muita vontade de crescer profissionalmente e estou aproveitando as oportun
 
 ---
 
-## Cobrinha dos Commits
-![snake gif](https://github.com/juhvieiranovaes/juhvieiranovaes/blob/output/github-contribution-grid-snake.svg)
-![snake gif](https://github.com/juhvieiranovaes/juhvieiranovaes/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
