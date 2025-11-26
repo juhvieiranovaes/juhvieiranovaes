@@ -1,48 +1,58 @@
+# 👩‍💻 Juliana Vieira Novaes  
 
-# Olá, eu sou a Juliana Vieira Novaes Santos! 👋
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em busca de uma nova carreira na área de tecnologia. Atualmente trabalho como *auxiliar de limpeza*, mas estou determinada a transformar minha vida por meio do aprendizado e dedicação à programação.
-
-- 🌱 Já aprendi **JavaScript** e estou aprendendo **Python**
-- 💡 Acredito no poder da tecnologia para mudar vidas e estou dando meus primeiros passos na área, sempre buscando aprender e evoluir
-- 🎯 Procuro uma oportunidade de trabalho *home office* em tecnologia, pois moro no interior e não é viável para mim me mudar para uma cidade maior
-
-## Sobre mim
-
-Tenho muita vontade de crescer profissionalmente e estou aproveitando as oportunidades que a tecnologia oferece para construir uma nova história. Cada linha de código representa um passo rumo ao meu sonho de trabalhar remotamente e proporcionar uma vida melhor para mim e minha família.
-
-## Contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-vieira-novaes-135a51369/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:julianavieiranovaes@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Front-end+Developer;Apaixonada+por+Tecnologia;Transformando+ideias+em+código)](https://git.io/typing-svg)
 
 ---
 
-## Estatísticas GitHub
+## 🌟 Sobre mim
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por criar experiências digitais.  
+Minha paixão é o **Front-end Development**, onde combino **HTML, CSS e JavaScript** para construir interfaces **intuitivas e funcionais**.  
 
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=juhvieiranovaes&show_icons=true&theme=radical" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhvieiranovaes&layout=compact&theme=radical" />
+💡 Atualmente, estou focada em evoluir minhas habilidades e conquistar minha **primeira oportunidade profissional** na área de desenvolvimento.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
 </div>
 
 ---
 
+## 📊 Estatísticas do GitHub
+<div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juhvieiranovaes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhvieiranovaes&layout=compact&theme=tokyonight&hide_border=true)  
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=juhvieiranovaes&theme=tokyonight&hide_border=true)  
+
+</div>
 
 ---
 
-Se você tiver dicas, oportunidades, ou quiser trocar uma ideia sobre programação, fique à vontade para entrar em contato! 🚀
-<!--
-**juhvieiranovaes/juhvieiranovaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Objetivo
+📌 Contribuir em projetos que impactem positivamente pessoas e negócios.  
+📌 Aprender continuamente com profissionais experientes.  
+📌 Evoluir como **Front-end Developer** e expandir para novas tecnologias.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Vamos nos conectar!
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juliana%20Vieira%20Novaes-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/juliana-vieira-novaes)  
+[![GitHub](https://img.shields.io/badge/GitHub-juhvieiranovaes-black?style=for-the-badge&logo=github)](https://github.com/juhvieiranovaes)  
+[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julianavieiranovaes@gmail.com)  
+
+</div>
+
+---
+
+✨ *Transformando ideias em código e código em experiências incríveis.*
