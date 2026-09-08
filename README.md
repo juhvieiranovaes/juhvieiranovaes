@@ -48,6 +48,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** (Anhanguera - previs
 * 🌐 **[Formação Completa HTML5 & CSS3 (Curso em Vídeo)](https://github.com/juhvieiranovaes/curso-html5-css3-cursoemvideo)**  
   Repositório estruturado contendo mais de 25 exercícios e desafios cobrindo semântica, multimídia, estilização externa, teoria das cores e gradientes com o professor Gustavo Guanabara.
 
+* 🏥 **[Sistema de Gestão Clínica Vida+ (Python & Modelagem UML)](https://github.com/juhvieiranovaes/sistema-gestao-clinica-vida-plus)**  
+  Protótipo funcional em Python para gestão e análise estatística de pacientes (cálculo de média de idade, busca dinâmica e validação de dados), desenvolvido com metodologia ágil (Scrum/Trello) e modelagem de casos de uso em UML no curso de ADS (Faculdade Anhanguera).
+
 ---
 
 ### 🧠 Desafios de Lógica e POO (Bootcamp DIO)
