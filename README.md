@@ -1,9 +1,7 @@
 # 👩‍💻 Juliana Vieira Novaes Santos
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Front-end+Developer;Estudante+de+ADS;Transformando+ideias+em+código" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=450&height=40&lines=Front-end+Developer;Estudante+de+ADS;Transformando+ideias+em+c%C3%B3digo" alt="Juliana Vieira - Front-end Developer | Estudante de ADS" />
 </div>
 
 <div align="center">
@@ -67,12 +65,12 @@ Aqui estão projetos práticos focados em algoritmos, funções modulares e Prog
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juhvieiranovaes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhvieiranovaes&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" height="180px" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=juhvieiranovaes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="180px" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=juhvieiranovaes&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens Mais Utilizadas" height="180px" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=juhvieiranovaes&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=juhvieiranovaes&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições" />
 </div>
 
 ---
