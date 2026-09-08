@@ -16,9 +16,9 @@
 
 ### 🌟 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por criar experiências digitais. Minha paixão é o **Front-end Development**, onde combino **HTML, CSS e JavaScript** para construir interfaces intuitivas, responsivas e funcionais.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** (Anhanguera - previsão 2027) com grande entusiasmo pelo desenvolvimento de experiências digitais modernas. Meu foco atual é o **Desenvolvimento Front-End**, aplicando **HTML5 semântico, CSS3 responsivo e JavaScript** na criação de interfaces fluidas e acessíveis.
 
-* 💡 Atualmente, estou focada em evoluir minhas habilidades e conquistar minha **primeira oportunidade profissional** na área de desenvolvimento.
+* 💡 Em busca de oportunidade de **Estágio em TI / Desenvolvimento Front-End** (disponível para atuação Remota / Home Office ou Híbrida).
 * ☕ *"Transformando café em código e ideias em realidade."*
 
 ---
@@ -39,14 +39,25 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por cri
 
 ---
 
-### 🚀 Desafios DIO em Destaque
+### 🚀 Projetos em Destaque (Front-End & Web)
 
-Aqui estão alguns projetos práticos de lógica e estrutura que desenvolvi nos bootcamps da **DIO (Digital Innovation One)**:
+* 🌗 **[Task List com Alternância de Tema (Dark/Light Mode)](https://github.com/juhvieiranovaes/site-simples)**  
+  Aplicação web responsiva com transição de temas claro/escuro via JavaScript puro e CSS Custom Properties.  
+  👉 **[🔗 Ver Demonstração Online no Ar (GitHub Pages)](https://juhvieiranovaes.github.io/site-simples/)**
 
-* 🎮 **[Terceiro Desafio do Felipão](https://github.com/juhvieiranovaes/Terceiro-desafio-do-Felip-o-da-DIO)**: Criando classes de um jogo em JavaScript aplicando Orientação a Objetos.
-* 🧮 **[Segundo Desafio do Felipão](https://github.com/juhvieiranovaes/Segundo-Desafio-do-Felip-o)**: Calculadora de partidas ranqueadas utilizando funções e lógica matemática.
-* 🛡️ **[Desafio DIO Felipão](https://github.com/juhvieiranovaes/Desafio-DIO-Felipao)**: Classificador de nível de herói com base em experiência (XP).
-* 📂 **[Lab Open Source](https://github.com/juhvieiranovaes/dio-lab-open-source)**: Repositório para contribuição em projetos open source.
+* 🌐 **[Formação Completa HTML5 & CSS3 (Curso em Vídeo)](https://github.com/juhvieiranovaes/curso-html5-css3-cursoemvideo)**  
+  Repositório estruturado contendo mais de 25 exercícios e desafios cobrindo semântica, multimídia, estilização externa, teoria das cores e gradientes com o professor Gustavo Guanabara.
+
+---
+
+### 🧠 Desafios de Lógica e POO (Bootcamp DIO)
+
+Aqui estão projetos práticos focados em algoritmos, funções modulares e Programação Orientada a Objetos desenvolvidos na **Digital Innovation One**:
+
+* ⚔️ **[Classes de Um Jogo (POO)](https://github.com/juhvieiranovaes/Terceiro-desafio-do-Felip-o-da-DIO)**: Implementação de classes, construtores e métodos com JavaScript e Node.js.
+* 🧮 **[Calculadora de Partidas Rankeadas](https://github.com/juhvieiranovaes/Segundo-Desafio-do-Felip-o)**: Funções modulares e regras de negócio para classificação de elos competitivos.
+* 🛡️ **[Classificador de Nível de Herói](https://github.com/juhvieiranovaes/Desafio-DIO-Felipao)**: Estruturas condicionais e tomada de decisão com base em experiência (XP).
+* 📂 **[Contribuição Open Source](https://github.com/juhvieiranovaes/dio-lab-open-source)**: Práticas de colaboração em repositórios abertos no GitHub.
 
 ---
 
@@ -63,13 +74,6 @@ Aqui estão alguns projetos práticos de lógica e estrutura que desenvolvi nos 
 
 ---
 
-### 🎯 Objetivos
-* 📌 Contribuir em projetos que impactem positivamente pessoas e negócios.
-* 📌 Aprender continuamente com profissionais experientes da área.
-* 📌 Evoluir como Front-end Developer e expandir meus conhecimentos para frameworks modernos.
-
----
-
 ### 🌐 Vamos nos conectar!
 
 <div align="center">
@@ -77,7 +81,7 @@ Aqui estão alguns projetos práticos de lógica e estrutura que desenvolvi nos 
     <img src="https://img.shields.io/badge/LinkedIn-Juliana%20Vieira%20Novaes-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:julianavieiranovaes@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-julianavieiranovaes%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
